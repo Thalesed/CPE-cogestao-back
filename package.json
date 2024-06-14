@@ -1,0 +1,25 @@
+{
+  "name": "cpe-cogestao-back",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thalesed/CPE-cogestao-back.git"
+  },
+  "author": "ThalesEd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thalesed/CPE-cogestao-back/issues"
+  },
+  "homepage": "https://github.com/Thalesed/CPE-cogestao-back#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
