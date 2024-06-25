@@ -1,4 +1,4 @@
-const eventsModel = require("../Models/eventsModel");
+const eventsModel = require("../Models/EventsModel");
 
 class eventsController {
   async create(req, res) {
